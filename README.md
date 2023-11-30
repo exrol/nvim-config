@@ -20,7 +20,7 @@ git clone git@github.com:exrol/nvim-config.git .
 
 Keymaps :
 
- -  <kbd>Ctrl</kbd> + <kbd>p</kbd> : Find files 
+ -  <kbd>Space</kbd> - <kbd>f</kbd> - <kbd>f</kbd> : Find files
  -  <kbd>Space</kbd> - <kbd>Space</kbd> : Old files  
  -  <kbd>Space</kbd> - <kbd>f</kbd> - <kbd>g</kbd> : Live grep
  -  <kbd>Space</kbd> - <kbd>f</kbd> - <kbd>h</kbd> : Help tags
